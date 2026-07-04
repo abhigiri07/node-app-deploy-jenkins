@@ -68,7 +68,7 @@ sudo npm install -g pm2
 * Choose Freestyle project, click OK.
 
 * Scroll to Source Code Management, select __Git__.
-* Enter your Git repository URL, e.g.: https://github.com/iamtruptimane/node-js-app-CICD.git
+* Enter your Git repository URL, e.g.: [https://github.com/abhigiri07/node-app-deploy-jenkins.git](https://github.com/abhigiri07/node-app-deploy-jenkins.git)
 
 * __Branch:__ `main`(or whatever your default is)
 
